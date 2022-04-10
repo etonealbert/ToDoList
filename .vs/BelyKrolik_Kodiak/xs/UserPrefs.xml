@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{618A5BDC-4123-4791-9D4C-C4ACE17AC1D9}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BelyKrolik_Kodiak" expanded="True">
+            <Node name="BelyKrolik_Kodiak" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.BelyKrolik__Kodiak PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B93B5438-7E6A-4280-ADDE-9D8C2C31B957" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v64hE4fMhENc088p0z66Zu3CeUp+/kPVd8x5B9+lX6YZjvXMCURejDzZZRoWkhCkdMnaFW/zAzUqg7vgxXaxew==",
+  "success": true,
+  "projectFilePath": "/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/BelyKrolik_Kodiak.csproj",
+  "expectedPackageFiles": [
+    "/Users/etonealbert/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/etonealbert/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

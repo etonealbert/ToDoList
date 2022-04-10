@@ -1,0 +1,20 @@
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/bin/iPhoneSimulator/Debug/BelyKrolik_Kodiak.exe
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/bin/iPhoneSimulator/Debug/BelyKrolik_Kodiak.pdb
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/BelyKrolik_Kodiak.csproj.AssemblyReference.cache
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/BelyKrolik_Kodiak.csproj.CoreCompileInputs.cache
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/BelyKrolik_Kodiak.csproj.CopyComplete
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/BelyKrolik_Kodiak.exe
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/BelyKrolik_Kodiak.pdb
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_PartialAppManifest.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_BundleResourceWithLogicalName.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/actool/_ProcessedImageAssetsPath.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_PartialAppManifest.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/_ProcessedBundleResourcesPath.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/_ProcessedContentPath.items
+/Users/etonealbert/Xamarin_app/BelyKrolik_Kodiak/BelyKrolik_Kodiak/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-15.4/optimized/
